@@ -1,0 +1,7 @@
+E:\Grupa2_IgorMilatovic\Grupa2_IgorMilatovic\bin\Debug\Grupa2_IgorMilatovic.exe.config
+E:\Grupa2_IgorMilatovic\Grupa2_IgorMilatovic\bin\Debug\Grupa2_IgorMilatovic.exe
+E:\Grupa2_IgorMilatovic\Grupa2_IgorMilatovic\bin\Debug\Grupa2_IgorMilatovic.pdb
+E:\Grupa2_IgorMilatovic\Grupa2_IgorMilatovic\obj\Debug\Grupa2_IgorMilatovic.csprojAssemblyReference.cache
+E:\Grupa2_IgorMilatovic\Grupa2_IgorMilatovic\obj\Debug\Grupa2_IgorMilatovic.csproj.CoreCompileInputs.cache
+E:\Grupa2_IgorMilatovic\Grupa2_IgorMilatovic\obj\Debug\Grupa2_IgorMilatovic.exe
+E:\Grupa2_IgorMilatovic\Grupa2_IgorMilatovic\obj\Debug\Grupa2_IgorMilatovic.pdb
